@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alivebyte
 - 👀 I’m interested in game development, music, computer engineering and science
 - 🌱 I’m currently learning C++, Python, C# and CS of course :)
-- 💞️ I’m looking to collaborate on gamedev projects, some arduino projects and etc.
+- 💞️ I’m looking to collaborate on Game Developement projects, Arduino projects and everything that involves Computer Science and maths.
 - 📫 How to reach me, just type me in Discord(Alivebyte!#3742) and Telegram(@alivebyte).
 
 
